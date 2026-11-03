@@ -49,8 +49,8 @@ const weapons = [
 
 const monsters = [
   {
-    name: "Kennedy",
-    picture: "kennedy.png",
+    name: "rattata",
+    picture: "ratata.png",
     level: 2,
     health: 15
   },
